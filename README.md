@@ -160,4 +160,4 @@ cd deep-learning-v2-pytorch
 jupyter notebook
 ```
 
-To exit the environment when you have completed your work session, simply close the terminal window.
+rk session, simply close the terminal window.
