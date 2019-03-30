@@ -2,3 +2,4 @@
 intro-to-pytorch/__pycache__/
 intro-to-pytorch/Cat_Dog_data/*
 intro-to-pytorch/__MACOSX/*
+convolutional-neural-networks/cifar-cnn/data/*
