@@ -10,6 +10,7 @@ def imshow(plt_axis, image, title, normalized=True):
         std = np.array([0.5, 0.5, 0.5])
         image = std * image + mean
         image = np.clip(image, 0, 1)
+
     plt_axis.imshow(image)
     plt_axis.set_title(title, fontdict={'fontsize': 30})
     plt_axis.spines['top'].set_visible(False)
@@ -21,3 +22,6 @@ def imshow(plt_axis, image, title, normalized=True):
     plt_axis.set_yticklabels('')
 
     return plt_axis
+
+def get_hello():
+    print('hello')
