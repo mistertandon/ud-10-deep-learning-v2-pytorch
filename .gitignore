@@ -4,3 +4,5 @@ intro-to-pytorch/Cat_Dog_data/*
 intro-to-pytorch/__MACOSX/*
 convolutional-neural-networks/cifar-cnn/data/*
 weight-initialization/data/*
+autoencoder/convolutional-autoencoder/data/*
+autoencoder/linear-autoencoder/data/*
