@@ -6,3 +6,4 @@ convolutional-neural-networks/cifar-cnn/data/*
 weight-initialization/data/*
 autoencoder/convolutional-autoencoder/data/*
 autoencoder/linear-autoencoder/data/*
+word2vec-embeddings/data/*
