@@ -50,7 +50,7 @@ It consists of a bunch of tutorial notebooks for various deep learning topics. I
 ### Elective Material
 
 * [Intro to TensorFlow](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/tensorflow/intro-to-tensorflow): Starting building neural networks with TensorFlow.
-* [Keras](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/keras): Learn to build neural networks and convolutional neural networks with Keras.
+* [Keras](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/keras): Learn keras
 
 ---
 
