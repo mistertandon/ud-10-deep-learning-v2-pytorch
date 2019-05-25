@@ -7,3 +7,5 @@ weight-initialization/data/*
 autoencoder/convolutional-autoencoder/data/*
 autoencoder/linear-autoencoder/data/*
 word2vec-embeddings/data/*
+cycle-gan/summer2winter_yosemite/*
+cycle-gan/__MACOSX/*
